@@ -4,6 +4,7 @@
   "description": "A very dark theme.",
   "version": "0.1.0",
   "publisher": "jacksonwelsh",
+  "icon": "assets/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/jacksonwelsh/vscode-ultradark.git"

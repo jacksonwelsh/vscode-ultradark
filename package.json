@@ -3,6 +3,10 @@
   "displayName": "UltraDark",
   "description": "A very dark theme.",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacksonwelsh/vscode-ultradark.git"
+  },
   "engines": {
     "vscode": "^1.76.0"
   },
